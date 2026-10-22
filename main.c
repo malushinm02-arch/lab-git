@@ -10,5 +10,7 @@ int main() {
     printf("Enter second number: ");
     scanf("%d", &b);
 
+    printf("Sum: %d\n", a + b);
+
     return 0;
 }
